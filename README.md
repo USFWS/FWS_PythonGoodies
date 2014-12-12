@@ -9,6 +9,7 @@ abstract:
 
 history:
 20140829 - daryl van dyke -  init repo and ClassVec2D
+20141212 - daryl van dyke - add deZipper
 	
 	
 license:
